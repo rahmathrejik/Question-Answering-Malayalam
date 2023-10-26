@@ -1,3 +1,3 @@
-# Question-Answering-Malayalam
+# Malayalam-Knowledge-Graph-Inferenece
 
-This project aims at developing QA dataset for Malayalam language. 
+This project aims to help researchers in Malayalam QA using Knowledge Graphs.
